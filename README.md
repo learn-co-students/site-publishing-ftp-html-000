@@ -6,9 +6,9 @@ In this lesson we will cover publishing your website using File Transfer Protoco
 
 ## Objectives
 
-1. What is FTP?
-2. Key details to connect to a remote FTP server.
-3. Using FileZilla Client to upload content. 
+1. Explain what FTP is
+2. Describe key details to connect to a remote FTP server
+3. Using FileZilla Client to upload content
 
 ## Publishing Using FileZilaa and FTP
 
@@ -16,7 +16,7 @@ In this lesson we will cover publishing your website using File Transfer Protoco
 
 ### What Is FTP?
 
-FTP stands for File Transfer Protocol. It is one of a few standardized ways to connect to and transfer content to a remote server. There are many programs for mac and pc that make transfering using FTP easy. In order to host your site on a remote server you will need to register a domain name and purchase hosting space. Or if you wish to use a free service you can check out the following lesson on publishing using Github Pages instead. Fo a list of paid domain and hosting providers see the links below at the bottom of this lesson.
+FTP stands for File Transfer Protocol. It is one of a few standardized ways to connect to and transfer content to a remote server. There are many programs for mac and pc that make transfering using FTP easy. In order to host your site on a remote server you will need to register a domain name and purchase hosting space. Or if you wish to use a free service you can check out the following lesson on publishing using Github Pages instead. For a list of paid domain and hosting providers see the links below at the bottom of this lesson.
 
 ### Key Details For Connection
 
